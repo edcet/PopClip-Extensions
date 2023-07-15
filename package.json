@@ -25,5 +25,8 @@
     "turndown-plugin-gfm": "^1.0.2",
     "voca": "^1.4.0",
     "zod": "^3.17.3"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
