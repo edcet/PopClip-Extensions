@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '> 1.9'
   s.add_dependency "gemoji", ">= 2.1.0"
   s.add_development_dependency "bundler", "~> 1.6"
-  s.add_development_dependency "rake", "~> 10.0"
+  s.add_development_dependency "rake", "~> 12.2"
   s.add_development_dependency 'rspec'
 end
